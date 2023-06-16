@@ -1,0 +1,4 @@
+﻿  L13.c
+C:\Archive\3 semester\KPO\LAB 13\L13\L13\L13.c(175,9): warning C4101: hBrush: неиспользованная локальная переменная
+C:\Archive\3 semester\KPO\LAB 13\L13\L13\L13.c(246,12): warning C4244: return: преобразование "WPARAM" в "INT", возможна потеря данных
+  L13.vcxproj -> C:\Archive\3 semester\KPO\LAB 13\L13\x64\Debug\L13.exe
